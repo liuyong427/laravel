@@ -6,6 +6,6 @@ class UserController
 {
 	public function index()
 	{
-		echo 'this is users';
+		echo 'this is UserController in App/Http/Controllers';
 	}
 }
